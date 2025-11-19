@@ -2,4 +2,5 @@
 Juste une redirection vers les autres dépôts et exercice que je ferraie.
 #
 
-- Test
+- https://github.com/Xeno-linux/Cours_Rust.git
+- 
